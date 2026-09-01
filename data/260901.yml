@@ -1,0 +1,65 @@
+about:
+  description: Grails - the Web Application Framework
+  license: Apache-2.0
+  homepage: https://grails.apache.org/
+  head: d71c218
+  archived: false
+  latestVersion: v8.0.0-M6
+  collectedAt: 2026-09-01T05:09:16Z
+timeline:
+  created: 2010-02-10
+  lastCommit: 2026-08-31
+  lastRelease: 2026-08-26
+popularity:
+  star: 2926
+  watcher: 189
+  fork: 973
+  release: 285
+  contributor: 609
+  pullRequest: 1332
+  issue: 11978
+language:
+  Groovy: 28199994
+  Java: 10872510
+  CSS: 1077890
+  Shell: 99245
+  JavaScript: 97836
+  HTML: 40609
+  Dockerfile: 4602
+  Go Template: 4403
+  Game Maker Language: 3880
+  Procfile: 17
+totalLine: 40400986
+recent:
+  last30d:
+    since: 2026-08-02
+    release: 8
+    mergedPR: 85
+    openPR: 64
+    closedIssue: 4
+    openIssue: 20
+    commit: 558
+  last90d:
+    since: 2026-06-03
+    release: 19
+    mergedPR: 242
+    openPR: 95
+    closedIssue: 18
+    openIssue: 45
+    commit: 2172
+  last180d:
+    since: 2026-03-05
+    release: 26
+    mergedPR: 386
+    openPR: 96
+    closedIssue: 38
+    openIssue: 60
+    commit: 4086
+  last360d:
+    since: 2025-09-06
+    release: 35
+    mergedPR: 640
+    openPR: 101
+    closedIssue: 128
+    openIssue: 90
+    commit: 6092
