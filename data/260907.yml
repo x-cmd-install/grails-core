@@ -5,7 +5,7 @@ about:
   head: 41259bf
   archived: false
   latestVersion: "v8.0.0-M6"
-  collectedAt: 2026-09-07T05:49:01Z
+  collectedAt: 2026-09-07T18:36:35Z
 timeline:
   created: 2010-02-10
   lastCommit: 2026-09-04
@@ -16,7 +16,7 @@ popularity:
   fork: 975
   release: 285
   contributor: 596
-  pullRequest: 4174
+  pullRequest: 4175
   issue: 11983
 language:
   Groovy: 28316980
@@ -88,7 +88,7 @@ total:
   commit: 66580
 ---
 path: /home/runner/.x-repo/github.com/apache/grails-core
-collectedAt: 2026-09-07T05:49:38Z
+collectedAt: 2026-09-07T18:37:01Z
 loc:
   Groovy:
     code: 455332
@@ -189,7 +189,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T05:49:41+00:00
+  collectedAt: 2026-09-07T18:37:03+00:00
   platform:
     darwin/arm64:
       name:  null
