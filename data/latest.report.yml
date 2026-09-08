@@ -5,7 +5,7 @@ about:
   head: 7801ced
   archived: false
   latestVersion: "v8.0.0-M6"
-  collectedAt: 2026-09-08T03:11:19Z
+  collectedAt: 2026-09-08T05:48:50Z
 timeline:
   created: 2010-02-10
   lastCommit: 2026-09-07
@@ -88,7 +88,7 @@ total:
   commit: 66582
 ---
 path: /home/runner/.x-repo/github.com/apache/grails-core
-collectedAt: 2026-09-08T03:11:51Z
+collectedAt: 2026-09-08T05:49:24Z
 loc:
   Groovy:
     code: 455332
