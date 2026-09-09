@@ -1,0 +1,194 @@
+about:
+  description: "Grails - the Web Application Framework"
+  license: Apache-2.0
+  homepage: https://grails.apache.org/
+  head: 4351078
+  archived: false
+  latestVersion: "v8.0.0-M6"
+  latestRelease: "v7.2.3"
+  latestPrerelease: "v8.0.0-M6"
+  collectedAt: 2026-09-09T05:51:29Z
+timeline:
+  created: 2010-02-10
+  lastCommit: 2026-09-09
+  lastVersion: 2026-08-26
+  lastRelease: 2026-08-23
+  lastPrerelease: 2026-08-26
+popularity:
+  star: 2929
+  watcher: 188
+  fork: 975
+  release: 285
+  contributor: 596
+  pullRequest: 4180
+  issue: 11984
+language:
+  Groovy: 28522973
+  Java: 10993441
+  CSS: 1077890
+  Shell: 99341
+  JavaScript: 97836
+  HTML: 40609
+  Dockerfile: 4602
+  Go Template: 4403
+  Game Maker Language: 3880
+  Procfile: 17
+totalBytes: 40844992
+recent:
+  last30d:
+    since: 2026-08-10
+    release: 4
+    mergedPR: 91
+    openPR: 63
+    closedIssue: 7
+    openIssue: 13
+    commit: 542
+  last60d:
+    since: 2026-07-11
+    release: 10
+    mergedPR: 181
+    openPR: 86
+    closedIssue: 12
+    openIssue: 33
+    commit: 1316
+  last90d:
+    since: 2026-06-11
+    release: 19
+    mergedPR: 260
+    openPR: 97
+    closedIssue: 21
+    openIssue: 44
+    commit: 2240
+  last180d:
+    since: 2026-03-13
+    release: 26
+    mergedPR: 406
+    openPR: 98
+    closedIssue: 40
+    openIssue: 59
+    commit: 4176
+  last360d:
+    since: 2025-09-14
+    release: 35
+    mergedPR: 664
+    openPR: 103
+    closedIssue: 130
+    openIssue: 88
+    commit: 6212
+  last720d:
+    since: 2024-09-19
+    release: 44
+    mergedPR: 1113
+    openPR: 104
+    closedIssue: 394
+    openIssue: 151
+    commit: 12526
+total:
+  release: 285
+  mergedPR: 2840
+  openPR: 104
+  closedIssue: 11164
+  openIssue: 820
+  commit: 66669
+---
+path: /home/runner/.x-repo/github.com/apache/grails-core
+collectedAt: 2026-09-09T05:52:00Z
+loc:
+  Groovy:
+    code: 458500
+    comments: 188621
+    blanks: 112768
+    files: 6921
+  Java:
+    code: 169619
+    comments: 80868
+    blanks: 34265
+    files: 2021
+  AsciiDoc:
+    code: 61662
+    comments: 22232
+    blanks: 27443
+    files: 1182
+  Css:
+    code: 38752
+    comments: 4861
+    blanks: 8175
+    files: 191
+  Yaml:
+    code: 9207
+    comments: 2480
+    blanks: 327
+    files: 253
+  Svg:
+    code: 6756
+    comments: 125
+    blanks: 46
+    files: 160
+  Json:
+    code: 2649
+    comments: 0
+    blanks: 0
+    files: 32
+  Xml:
+    code: 2438
+    comments: 3021
+    blanks: 571
+    files: 145
+  Sh:
+    code: 2375
+    comments: 1565
+    blanks: 511
+    files: 26
+  JavaScript:
+    code: 920
+    comments: 1372
+    blanks: 184
+    files: 53
+  Html:
+    code: 657
+    comments: 25
+    blanks: 54
+    files: 13
+  Batch:
+    code: 640
+    comments: 0
+    blanks: 180
+    files: 10
+  Gml:
+    code: 45
+    comments: 64
+    blanks: 0
+    files: 5
+  Dockerfile:
+    code: 39
+    comments: 32
+    blanks: 9
+    files: 1
+  Sql:
+    code: 19
+    comments: 0
+    blanks: 2
+    files: 1
+  Bash:
+    code: 12
+    comments: 23
+    blanks: 6
+    files: 1
+  Markdown:
+    code: 0
+    comments: 4075
+    blanks: 1556
+    files: 111
+  Text:
+    code: 0
+    comments: 895
+    blanks: 175
+    files: 13
+total:
+  code: 754702
+  comments: 310296
+  blanks: 186307
+  files: 11139
+---
+
+---
