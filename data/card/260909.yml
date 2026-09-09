@@ -2,12 +2,12 @@ about:
   description: "Grails - the Web Application Framework"
   license: Apache-2.0
   homepage: https://grails.apache.org/
-  head: 4351078
+  head: 0980623
   archived: false
   latestVersion: "v8.0.0-M6"
   latestRelease: "v7.2.3"
   latestPrerelease: "v8.0.0-M6"
-  collectedAt: 2026-09-09T05:51:29Z
+  collectedAt: 2026-09-09T20:21:08Z
 timeline:
   created: 2010-02-10
   lastCommit: 2026-09-09
@@ -20,11 +20,11 @@ popularity:
   fork: 975
   release: 285
   contributor: 596
-  pullRequest: 4180
+  pullRequest: 4186
   issue: 11984
 language:
-  Groovy: 28522973
-  Java: 10993441
+  Groovy: 28597249
+  Java: 11028007
   CSS: 1077890
   Shell: 99341
   JavaScript: 97836
@@ -33,81 +33,81 @@ language:
   Go Template: 4403
   Game Maker Language: 3880
   Procfile: 17
-totalBytes: 40844992
+totalBytes: 40953834
 recent:
   last30d:
     since: 2026-08-10
     release: 4
-    mergedPR: 91
-    openPR: 63
-    closedIssue: 7
-    openIssue: 13
-    commit: 542
+    mergedPR: 98
+    openPR: 57
+    closedIssue: 10
+    openIssue: 10
+    commit: 552
   last60d:
     since: 2026-07-11
     release: 10
-    mergedPR: 181
-    openPR: 86
-    closedIssue: 12
-    openIssue: 33
-    commit: 1316
+    mergedPR: 188
+    openPR: 80
+    closedIssue: 15
+    openIssue: 30
+    commit: 1326
   last90d:
     since: 2026-06-11
     release: 19
-    mergedPR: 260
-    openPR: 97
-    closedIssue: 21
-    openIssue: 44
-    commit: 2240
+    mergedPR: 267
+    openPR: 91
+    closedIssue: 24
+    openIssue: 41
+    commit: 2250
   last180d:
     since: 2026-03-13
     release: 26
-    mergedPR: 406
-    openPR: 98
-    closedIssue: 40
-    openIssue: 59
-    commit: 4176
+    mergedPR: 413
+    openPR: 92
+    closedIssue: 43
+    openIssue: 56
+    commit: 4186
   last360d:
     since: 2025-09-14
     release: 35
-    mergedPR: 664
-    openPR: 103
-    closedIssue: 130
-    openIssue: 88
-    commit: 6212
+    mergedPR: 671
+    openPR: 97
+    closedIssue: 133
+    openIssue: 85
+    commit: 6222
   last720d:
     since: 2024-09-19
     release: 44
-    mergedPR: 1113
-    openPR: 104
-    closedIssue: 394
-    openIssue: 151
-    commit: 12526
+    mergedPR: 1120
+    openPR: 98
+    closedIssue: 397
+    openIssue: 148
+    commit: 12542
 total:
   release: 285
-  mergedPR: 2840
-  openPR: 104
-  closedIssue: 11164
-  openIssue: 820
-  commit: 66669
+  mergedPR: 2847
+  openPR: 98
+  closedIssue: 11167
+  openIssue: 817
+  commit: 66685
 ---
 path: /home/runner/.x-repo/github.com/apache/grails-core
-collectedAt: 2026-09-09T05:52:00Z
+collectedAt: 2026-09-09T20:21:40Z
 loc:
   Groovy:
-    code: 458500
-    comments: 188621
-    blanks: 112768
-    files: 6921
+    code: 459841
+    comments: 188848
+    blanks: 113167
+    files: 6931
   Java:
-    code: 169619
-    comments: 80868
-    blanks: 34265
-    files: 2021
+    code: 169950
+    comments: 81297
+    blanks: 34356
+    files: 2034
   AsciiDoc:
-    code: 61662
+    code: 61724
     comments: 22232
-    blanks: 27443
+    blanks: 27459
     files: 1182
   Css:
     code: 38752
@@ -185,10 +185,10 @@ loc:
     blanks: 175
     files: 13
 total:
-  code: 754702
-  comments: 310296
-  blanks: 186307
-  files: 11139
+  code: 756436
+  comments: 310952
+  blanks: 186813
+  files: 11162
 ---
 
 ---

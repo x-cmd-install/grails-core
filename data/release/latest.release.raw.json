@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 57544938,
       "digest": "sha256:b783636ef557ece34bc82415d4d8e31e1d24568336c7626f3e79e1781ccf34cc",
-      "download_count": 295,
+      "download_count": 307,
       "created_at": "2026-08-23T15:46:03Z",
       "updated_at": "2026-08-23T15:46:05Z",
       "browser_download_url": "https://github.com/apache/grails-core/releases/download/v7.2.3/apache-grails-7.2.3-bin.zip"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 158,
       "digest": "sha256:ca3000bf8b72b8fbf367c84c58e5ae15428d87d6cae23b4a98627ba23475e988",
-      "download_count": 20,
+      "download_count": 21,
       "created_at": "2026-08-23T15:46:03Z",
       "updated_at": "2026-08-23T15:46:03Z",
       "browser_download_url": "https://github.com/apache/grails-core/releases/download/v7.2.3/apache-grails-7.2.3-bin.zip.sha512"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 31055608,
       "digest": "sha256:3cc5a01dd383be976658d7d606881be4b010b5c4c72ce375525d29e3d55cdfdb",
-      "download_count": 7,
+      "download_count": 8,
       "created_at": "2026-08-23T16:01:13Z",
       "updated_at": "2026-08-23T16:01:15Z",
       "browser_download_url": "https://github.com/apache/grails-core/releases/download/v7.2.3/apache-grails-7.2.3-src.zip"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 40920,
       "digest": "sha256:5818bdede69c6c707eeeed47dc1e0b80e0e24ae67033971f23cf3758e8c03d36",
-      "download_count": 12,
+      "download_count": 13,
       "created_at": "2026-08-23T15:46:01Z",
       "updated_at": "2026-08-23T15:46:01Z",
       "browser_download_url": "https://github.com/apache/grails-core/releases/download/v7.2.3/apache-grails-wrapper-7.2.3-bin.zip"
