@@ -7,7 +7,7 @@ about:
   latestVersion: "v8.0.0-M6"
   latestRelease: "v7.2.3"
   latestPrerelease: "v8.0.0-M6"
-  collectedAt: 2026-09-10T18:01:55Z
+  collectedAt: 2026-09-10T23:51:29Z
 timeline:
   created: 2010-02-10
   lastCommit: 2026-09-10
@@ -92,7 +92,7 @@ total:
   commit: 66691
 ---
 path: /home/runner/.x-repo/github.com/apache/grails-core
-collectedAt: 2026-09-10T18:02:43Z
+collectedAt: 2026-09-10T23:52:05Z
 loc:
   Groovy:
     code: 459801
