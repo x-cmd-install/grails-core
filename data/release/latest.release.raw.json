@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 57544938,
       "digest": "sha256:b783636ef557ece34bc82415d4d8e31e1d24568336c7626f3e79e1781ccf34cc",
-      "download_count": 328,
+      "download_count": 338,
       "created_at": "2026-08-23T15:46:03Z",
       "updated_at": "2026-08-23T15:46:05Z",
       "browser_download_url": "https://github.com/apache/grails-core/releases/download/v7.2.3/apache-grails-7.2.3-bin.zip"
