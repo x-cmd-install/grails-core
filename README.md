@@ -14,15 +14,15 @@ x install grails-core
 
 ## Code insight
 
-Total: **763,759** lines of code across **10565** files in the top 5 languages.
+Total: **763,794** lines of code across **10567** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Groovy | 466,898 | 189,772 | 114,465 | 6906 |
+| Groovy | 466,917 | 189,812 | 114,473 | 6907 |
 | Java | 172,088 | 82,813 | 34,582 | 2042 |
-| AsciiDoc | 62,188 | 22,257 | 27,609 | 1183 |
+| AsciiDoc | 62,204 | 22,257 | 27,615 | 1183 |
 | Css | 37,236 | 4,758 | 7,853 | 187 |
-| Yaml | 9,007 | 2,396 | 310 | 247 |
+| Yaml | 9,007 | 2,396 | 310 | 248 |
 
 ## Source
 
@@ -42,18 +42,18 @@ Total: **763,759** lines of code across **10565** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 285 · **Merged PRs**: 2868 · **Open PRs**: 91 · **Closed issues**: 11168 · **Open issues**: 823 · **Commits**: 67016
+- **Releases**: 285 · **Merged PRs**: 2870 · **Open PRs**: 90 · **Closed issues**: 11169 · **Open issues**: 822 · **Commits**: 67019
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-21 | 4 | 93 | 31 | 5 | 12 | 444 |
-| last60d | 2026-07-22 | 8 | 166 | 67 | 13 | 27 | 1319 |
-| 90d | 2026-06-22 | 17 | 275 | 84 | 22 | 47 | 2230 |
-| last180d | 2026-03-24 | 25 | 416 | 85 | 40 | 62 | 4265 |
-| 360d | 2025-09-25 | 35 | 679 | 89 | 123 | 89 | 6488 |
-| last720d | 2024-09-30 | 44 | 1111 | 91 | 385 | 152 | 12647 |
+| 30d | 2026-08-22 | 4 | 95 | 30 | 6 | 11 | 447 |
+| last60d | 2026-07-23 | 8 | 167 | 65 | 14 | 25 | 1322 |
+| 90d | 2026-06-23 | 17 | 276 | 83 | 22 | 46 | 2233 |
+| last180d | 2026-03-25 | 25 | 417 | 84 | 41 | 61 | 4268 |
+| 360d | 2025-09-26 | 35 | 680 | 88 | 122 | 88 | 6491 |
+| last720d | 2024-10-01 | 44 | 1108 | 90 | 386 | 151 | 12635 |
 
 ## Release assets
 
@@ -79,4 +79,4 @@ Install metadata for grails-core lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260920.yml` · 2026-09-20T06:07:57Z._
+_Snapshot: `data/card/260921.yml` · 2026-09-21T06:09:08Z._
