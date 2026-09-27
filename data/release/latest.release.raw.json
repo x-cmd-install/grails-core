@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 54689476,
       "digest": "sha256:5cbbd4ec69b25c3711075a426dc69945ba2c597f0c07a9ac31615ecd47d29050",
-      "download_count": 64,
+      "download_count": 86,
       "created_at": "2026-09-22T05:42:34Z",
       "updated_at": "2026-09-22T05:42:36Z",
       "browser_download_url": "https://github.com/apache/grails-core/releases/download/v7.2.4/apache-grails-7.2.4-bin.zip"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 31070908,
       "digest": "sha256:ba661bbd6003f1bd055794cc16686b8e32836eb9b649cf4ec5c70a96af228822",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-09-22T05:54:33Z",
       "updated_at": "2026-09-22T05:54:35Z",
       "browser_download_url": "https://github.com/apache/grails-core/releases/download/v7.2.4/apache-grails-7.2.4-src.zip"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 473,
       "digest": "sha256:3c3f599e1ad6bb2756ef80faaf37d9267872bd26a1088888f5bad62d6f7fe3f1",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-09-22T05:55:40Z",
       "updated_at": "2026-09-22T05:55:41Z",
       "browser_download_url": "https://github.com/apache/grails-core/releases/download/v7.2.4/DIST_SVN_REVISION.txt"
