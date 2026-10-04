@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 54689476,
       "digest": "sha256:5cbbd4ec69b25c3711075a426dc69945ba2c597f0c07a9ac31615ecd47d29050",
-      "download_count": 194,
+      "download_count": 205,
       "created_at": "2026-09-22T05:42:34Z",
       "updated_at": "2026-09-22T05:42:36Z",
       "browser_download_url": "https://github.com/apache/grails-core/releases/download/v7.2.4/apache-grails-7.2.4-bin.zip"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 158,
       "digest": "sha256:87249faf440819815b8c6de021d479a36839482e1a087e6dce1347863a7adc21",
-      "download_count": 22,
+      "download_count": 23,
       "created_at": "2026-09-22T05:42:34Z",
       "updated_at": "2026-09-22T05:42:35Z",
       "browser_download_url": "https://github.com/apache/grails-core/releases/download/v7.2.4/apache-grails-7.2.4-bin.zip.sha512"
