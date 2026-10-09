@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 53747224,
       "digest": "sha256:9e8b67c62fe83b8777a6a8142aa86f59d5621fe13cfee7308a320583d50b8d03",
-      "download_count": 28,
+      "download_count": 77,
       "created_at": "2026-10-04T18:42:59Z",
       "updated_at": "2026-10-04T18:43:01Z",
       "browser_download_url": "https://github.com/apache/grails-core/releases/download/v8.0.0/apache-grails-8.0.0-bin.zip"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 40535481,
       "digest": "sha256:6786744e23588f2a5cc21bcce6559c64609f4308ff5ddb3b32867bf820d2711d",
-      "download_count": 7,
+      "download_count": 8,
       "created_at": "2026-10-04T19:01:08Z",
       "updated_at": "2026-10-04T19:01:10Z",
       "browser_download_url": "https://github.com/apache/grails-core/releases/download/v8.0.0/apache-grails-8.0.0-src.zip"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 44213,
       "digest": "sha256:ccc668fab625b55a14fec73856ceefb53b46c02a402002dfea23ea1321c66190",
-      "download_count": 10,
+      "download_count": 11,
       "created_at": "2026-10-04T18:42:57Z",
       "updated_at": "2026-10-04T18:42:58Z",
       "browser_download_url": "https://github.com/apache/grails-core/releases/download/v8.0.0/apache-grails-wrapper-8.0.0-bin.zip"
