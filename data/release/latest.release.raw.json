@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 53747224,
       "digest": "sha256:9e8b67c62fe83b8777a6a8142aa86f59d5621fe13cfee7308a320583d50b8d03",
-      "download_count": 77,
+      "download_count": 94,
       "created_at": "2026-10-04T18:42:59Z",
       "updated_at": "2026-10-04T18:43:01Z",
       "browser_download_url": "https://github.com/apache/grails-core/releases/download/v8.0.0/apache-grails-8.0.0-bin.zip"
