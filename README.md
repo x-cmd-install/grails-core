@@ -38,22 +38,22 @@ Total: **847,728** lines of code across **11254** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 2,937 · **Forks**: 978 · **Open issues**: 12,034 · **Contributors**: 598
+- **Stars**: 2,936 · **Forks**: 978 · **Open issues**: 12,034 · **Contributors**: 598
 
 ## Totals (cumulative)
 
-- **Releases**: 291 · **Merged PRs**: 3106 · **Open PRs**: 82 · **Closed issues**: 11285 · **Open issues**: 749 · **Commits**: 68257
+- **Releases**: 291 · **Merged PRs**: 3106 · **Open PRs**: 83 · **Closed issues**: 11285 · **Open issues**: 749 · **Commits**: 68257
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-18 | 6 | 186 | 63 | 24 | 19 | 575 |
-| last60d | 2026-08-19 | 10 | 305 | 68 | 36 | 24 | 1360 |
-| 90d | 2026-07-20 | 15 | 402 | 71 | 54 | 32 | 2370 |
-| last180d | 2026-04-21 | 28 | 610 | 80 | 82 | 55 | 4525 |
-| 360d | 2025-10-23 | 40 | 880 | 81 | 157 | 72 | 7183 |
-| last720d | 2024-10-28 | 49 | 1298 | 82 | 420 | 129 | 13219 |
+| 30d | 2026-09-19 | 6 | 185 | 64 | 24 | 19 | 575 |
+| last60d | 2026-08-20 | 10 | 303 | 68 | 36 | 24 | 1360 |
+| 90d | 2026-07-21 | 15 | 398 | 72 | 53 | 31 | 2370 |
+| last180d | 2026-04-22 | 28 | 609 | 81 | 81 | 53 | 4525 |
+| 360d | 2025-10-24 | 40 | 878 | 82 | 155 | 72 | 7183 |
+| last720d | 2024-10-29 | 49 | 1298 | 83 | 420 | 129 | 13207 |
 
 ## Release assets
 
@@ -79,4 +79,4 @@ Install metadata for grails-core lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261018.yml` · 2026-10-18T05:27:58Z._
+_Snapshot: `data/card/261019.yml` · 2026-10-19T05:29:10Z._
