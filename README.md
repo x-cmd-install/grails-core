@@ -33,27 +33,27 @@ Total: **847,728** lines of code across **11254** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v8.0.0` (2026-10-04)
-- **Last commit**: 2026-10-17
+- **Last commit**: 2026-10-19
 - **Assets in release**: 10
 
 ## Popularity
 
-- **Stars**: 2,936 · **Forks**: 978 · **Open issues**: 12,034 · **Contributors**: 598
+- **Stars**: 2,936 · **Forks**: 978 · **Open issues**: 12,037 · **Contributors**: 598
 
 ## Totals (cumulative)
 
-- **Releases**: 291 · **Merged PRs**: 3106 · **Open PRs**: 83 · **Closed issues**: 11285 · **Open issues**: 749 · **Commits**: 68257
+- **Releases**: 291 · **Merged PRs**: 3106 · **Open PRs**: 95 · **Closed issues**: 11285 · **Open issues**: 752 · **Commits**: 68265
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-19 | 6 | 185 | 64 | 24 | 19 | 575 |
-| last60d | 2026-08-20 | 10 | 303 | 68 | 36 | 24 | 1360 |
-| 90d | 2026-07-21 | 15 | 398 | 72 | 53 | 31 | 2370 |
-| last180d | 2026-04-22 | 28 | 609 | 81 | 81 | 53 | 4525 |
-| 360d | 2025-10-24 | 40 | 878 | 82 | 155 | 72 | 7183 |
-| last720d | 2024-10-29 | 49 | 1298 | 83 | 420 | 129 | 13207 |
+| 30d | 2026-09-20 | 6 | 184 | 76 | 24 | 22 | 583 |
+| last60d | 2026-08-21 | 10 | 295 | 80 | 36 | 27 | 1368 |
+| 90d | 2026-07-22 | 14 | 392 | 84 | 52 | 34 | 2378 |
+| last180d | 2026-04-23 | 28 | 609 | 93 | 81 | 56 | 4533 |
+| 360d | 2025-10-25 | 40 | 878 | 94 | 155 | 75 | 7191 |
+| last720d | 2024-10-30 | 49 | 1298 | 95 | 420 | 132 | 13215 |
 
 ## Release assets
 
@@ -79,4 +79,4 @@ Install metadata for grails-core lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261019.yml` · 2026-10-19T05:29:10Z._
+_Snapshot: `data/card/261020.yml` · 2026-10-20T05:44:21Z._
