@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 53747224,
       "digest": "sha256:9e8b67c62fe83b8777a6a8142aa86f59d5621fe13cfee7308a320583d50b8d03",
-      "download_count": 343,
+      "download_count": 369,
       "created_at": "2026-10-04T18:42:59Z",
       "updated_at": "2026-10-04T18:43:01Z",
       "browser_download_url": "https://github.com/apache/grails-core/releases/download/v8.0.0/apache-grails-8.0.0-bin.zip"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 40535481,
       "digest": "sha256:6786744e23588f2a5cc21bcce6559c64609f4308ff5ddb3b32867bf820d2711d",
-      "download_count": 52,
+      "download_count": 56,
       "created_at": "2026-10-04T19:01:08Z",
       "updated_at": "2026-10-04T19:01:10Z",
       "browser_download_url": "https://github.com/apache/grails-core/releases/download/v8.0.0/apache-grails-8.0.0-src.zip"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 473,
       "digest": "sha256:c54ac006f6932b21f945bef870a7cd1622cc79a44d27662bc339701c1c65ca8b",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-10-04T19:02:09Z",
       "updated_at": "2026-10-04T19:02:09Z",
       "browser_download_url": "https://github.com/apache/grails-core/releases/download/v8.0.0/DIST_SVN_REVISION.txt"
