@@ -14,13 +14,13 @@ x install grails-core
 
 ## Code insight
 
-Total: **877,083** lines of code across **11467** files in the top 5 languages.
+Total: **877,084** lines of code across **11467** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Groovy | 570,936 | 216,401 | 135,966 | 7719 |
 | Java | 182,156 | 88,665 | 36,048 | 2124 |
-| AsciiDoc | 66,325 | 22,331 | 28,997 | 1187 |
+| AsciiDoc | 66,326 | 22,331 | 28,998 | 1187 |
 | Css | 31,720 | 4,514 | 6,689 | 179 |
 | Yaml | 9,240 | 2,528 | 323 | 258 |
 
@@ -32,28 +32,28 @@ Total: **877,083** lines of code across **11467** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v8.0.0` (2026-10-04)
-- **Last commit**: 2026-11-20
+- **Latest**: `v9.0.0-M1` (2026-10-04)
+- **Last commit**: 2026-11-22
 - **Assets in release**: 10
 
 ## Popularity
 
-- **Stars**: 2,941 · **Forks**: 980 · **Open issues**: 12,157 · **Contributors**: 599
+- **Stars**: 2,941 · **Forks**: 980 · **Open issues**: 12,161 · **Contributors**: 599
 
 ## Totals (cumulative)
 
-- **Releases**: 291 · **Merged PRs**: 3280 · **Open PRs**: 168 · **Closed issues**: 11364 · **Open issues**: 793 · **Commits**: 68866
+- **Releases**: 297 · **Merged PRs**: 3289 · **Open PRs**: 167 · **Closed issues**: 11365 · **Open issues**: 796 · **Commits**: 68873
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-22 | 0 | 126 | 128 | 18 | 87 | 460 |
-| last60d | 2026-09-22 | 4 | 338 | 155 | 64 | 101 | 1322 |
-| 90d | 2026-08-23 | 10 | 459 | 157 | 77 | 106 | 2026 |
-| last180d | 2026-05-25 | 25 | 731 | 166 | 124 | 124 | 4619 |
-| 360d | 2025-11-26 | 37 | 993 | 167 | 182 | 142 | 7612 |
-| last720d | 2024-12-01 | 48 | 1424 | 168 | 453 | 193 | 13226 |
+| 30d | 2026-10-23 | 6 | 131 | 126 | 16 | 91 | 283 |
+| last60d | 2026-09-23 | 9 | 339 | 154 | 62 | 104 | 1110 |
+| 90d | 2026-08-24 | 13 | 462 | 156 | 77 | 110 | 1848 |
+| last180d | 2026-05-26 | 31 | 740 | 165 | 124 | 128 | 4481 |
+| 360d | 2025-11-27 | 43 | 1002 | 166 | 182 | 146 | 7572 |
+| last720d | 2024-12-02 | 54 | 1432 | 167 | 454 | 196 | 13227 |
 
 ## Release assets
 
@@ -79,4 +79,4 @@ Install metadata for grails-core lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261121.yml` · 2026-11-21T07:43:57Z._
+_Snapshot: `data/card/261122.yml` · 2026-11-22T07:39:36Z._
